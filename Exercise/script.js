@@ -8,6 +8,7 @@ function say_hello() {
     // CODE HERE!!!
     console.log("What is your name?")
     console.log("Chaiwet Ketmuangmul")
+    console.log("Prin Panyakrue")
 }
 
 // Don’t change the code under this comment!
