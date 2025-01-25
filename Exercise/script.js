@@ -10,6 +10,7 @@ function say_hello() {
     console.log("Chaiwet Ketmuangmul")
     console.log("Prin Panyakrue")
     console.log("Fake C")
+    console.log("Fake D")
 }
 
 // Don’t change the code under this comment!
